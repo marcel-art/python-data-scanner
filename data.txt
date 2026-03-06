@@ -1,0 +1,21 @@
+Hey,
+
+wie besprochen befinden sich hier meine daten. 
+
+Kontaktinformationen
+
+Name: Max Mustermann
+Email: max.mustermann@test.de
+Alternative Email: support@firma.org
+
+Serverdaten
+IP-Adresse: 192.168.1.10
+Backup-Server: 10.0.0.5
+
+Zahlungsdaten
+Creditcard: 4532 1234 5678 9012
+Alternative Card: 4532-1111-2222-3333
+
+Notiz:
+Bitte sende eine Rückmeldung an admin@unternehmen.com.
+Der Webserver läuft unter 8.8.8.8.
